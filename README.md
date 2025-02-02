@@ -18,8 +18,8 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rom%C3%A3o-5b5409ab/)
 
 ## 🛠️ Skills and Technologies
-- **Programming Languages**: Java ☕︎
--  **Tools**: Git, Jira, Google Analytics
+- **Programming Languages**: Java
+- **Tools**: Git, Jira, Google Analytics
 - **Methodologies**: Agile, Scrum
 
 ## 🌱 Currently Learning
