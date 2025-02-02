@@ -6,20 +6,17 @@
   - I work closely with development teams and clients to implement innovative technological solutions.
 
 ## 🎓 Education
-- **Software Engineering** at the Catholic University of Brasília
+- **I am studying Software Engineering at the Catholic University of Brasília
   - Focused on software development, system architecture, and project management.
-  - Participating in research projects in artificial intelligence and machine learning.
-
+  - 
 ## 💬 Ask me about...
-- Emerging technologies in health and software.
 - Account management and client relationships.
 - Software development and engineering best practices.
-- Career in tech and transitioning to software engineering.
 
 ## 📫 How to reach me
-- **Email**: romaoeduu@gmail.com
-- **LinkedIn**: [Eduardo Romão](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@your_twitter](https://twitter.com/your_twitter)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romaoeduu@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rom%C3%A3o-5b5409ab/)
+
 
 ## ⚡ Fun fact
 - I'm passionate about music and play the guitar in my free time.
