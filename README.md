@@ -36,5 +36,5 @@
 ## ⚡ Fun fact
 - I'm learning to play guitar in my free time
 
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romaoedu&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romaoedu&layout=compact&theme=tokyonight)
